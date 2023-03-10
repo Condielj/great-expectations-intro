@@ -1,0 +1,21 @@
+{
+  "data_asset_type": null,
+  "expectation_suite_name": "gx_taxi_data.demo",
+  "expectations": [],
+  "ge_cloud_id": null,
+  "meta": {
+    "citations": [
+      {
+        "batch_request": {
+          "data_asset_name": "yellow_tripdata_sample_2019-01.csv",
+          "data_connector_name": "default_inferred_data_connector_name",
+          "datasource_name": "gx_intro_datasource",
+          "limit": 1000
+        },
+        "citation_date": "2023-03-10T16:36:47.776947Z",
+        "comment": "Created suite added via CLI"
+      }
+    ],
+    "great_expectations_version": "0.15.50"
+  }
+}
